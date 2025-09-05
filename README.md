@@ -36,7 +36,7 @@ I am currently working through the first module, strengthening my foundation in:
 -   **NumPy:** ND arrays, universal functions (ufuncs), indexing, slicing, broadcasting, and random sampling.
 -   **Pandas:** DataFrames & Series, reading/writing data, data selection, handling missing data, groupby operations, and merging/joining datasets.
 
-The code for this module can be found in the [`/01-foundational-data-foundations`](./01-foundational-data-foundations) directory.
+The code for this module can be found in the [`/01-numpy-pandas-foundations`](./01-numpy-pandas-foundations) directory.
 
 
 ## 🛠️ Tech Stack
