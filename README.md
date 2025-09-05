@@ -1,7 +1,7 @@
 # Machine Learning & Data Science Mastery Path 🚀
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blueviolet)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
