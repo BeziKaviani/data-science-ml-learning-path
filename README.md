@@ -5,7 +5,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A comprehensive, structured, and practical journey through the core and advanced concepts of Machine Learning and Data Science. This repository serves as my personal knowledge base, documenting my progress, code, and projects from foundational data manipulation to deploying production-ready ML systems.
 
