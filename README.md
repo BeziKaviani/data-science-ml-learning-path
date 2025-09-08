@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A comprehensive, structured, and practical journey through the core and advanced concepts of Machine Learning and Data Science. This repository serves as my personal knowledge base, documenting my progress, code, and projects from foundational data manipulation to deploying production-ready ML systems.
@@ -14,8 +15,8 @@ The journey is structured into the following modules, to be completed sequential
 
 | Module | Topics Covered | Status |
 |:-------|:---------------|:-------|
-| **01** | **Foundational Data Manipulation:** Mastery of NumPy & Pandas for efficient data handling. | ✅ **In Progress** |
-| **02** | **Descriptive Statistics:** Understanding data distributions, central tendency, and variability. | ⌛ Planned |
+| **01** | **Foundational Data Manipulation:** Mastery of NumPy & Pandas for efficient data handling. | ✅ **Completed** |
+| **02** | **Descriptive Statistics:** Understanding data distributions, central tendency, and variability. | ✅ **In Progress** |
 | **03** | **Inferential Statistics & Hypothesis Testing:** Drawing conclusions from data and validating assumptions. | ⌛ Planned |
 | **04** | **Data Visualization & Storytelling:** Creating insightful plots and dashboards with Matplotlib, Seaborn, and Plotly. | ⌛ Planned |
 | **05** | **Data Preprocessing & Wrangling:** Cleaning, normalization, encoding, and feature scaling for ML readiness. | ⌛ Planned |
@@ -30,19 +31,22 @@ The journey is structured into the following modules, to be completed sequential
 | **14** | **MLOps Foundations:** Version control (Git), containerization (Docker), and cloud storage (S3) for ML. | ⌛ Planned |
 | **15** | **Data & Workflow Management:** Orchestrating end-to-end ML pipelines and managing data workflows. | ⌛ Planned |
 
-## 🚀 Current Focus: Module 01 - NumPy & Pandas
+## 🚀 Current Focus: Module 02 - Descriptive Statistics
 
-I am currently working through the first module, strengthening my foundation in:
--   **NumPy:** ND arrays, universal functions (ufuncs), indexing, slicing, broadcasting, and random sampling.
--   **Pandas:** DataFrames & Series, reading/writing data, data selection, handling missing data, groupby operations, and merging/joining datasets.
+I am currently working through the second module, deepening my understanding of:
+-   **Measures of Central Tendency:** Mean, median, mode, and their applications
+-   **Measures of Variability:** Range, variance, standard deviation, and IQR
+-   **Data Distributions:** Normal distribution, skewness, kurtosis, and probability density functions
+-   **Correlation Analysis:** Pearson, Spearman, and Kendall correlation coefficients
+-   **Practical Implementation:** Applying statistical concepts using Python and real-world datasets
 
-The code for this module can be found in the [`/01-numpy-pandas-foundations`](./01-numpy-pandas-foundations) directory.
+The code and analysis for this module can be found in the [`/02-descriptive-statistics`](./02-descriptive-statistics) directory.
 
 
 ## 🛠️ Tech Stack
 
 *   **Languages:** Python
-*   **Core Libraries:** NumPy, Pandas, SciPy, Scikit-Learn
+*   **Core Libraries:** NumPy, Pandas, SciPy, Scikit-Learn, Statsmodels
 *   **Visualization:** Matplotlib, Seaborn, Plotly
 *   **Deep Learning:** TensorFlow, Keras
 *   **Development:** Jupyter Lab, VS Code, Git
@@ -51,10 +55,10 @@ The code for this module can be found in the [`/01-numpy-pandas-foundations`](./
 ## 🌱 Purpose
 
 This repository is built to:
-*   **Learn by Doing:** Translate theoretical knowledge into practical code.
-*   **Build Publicly:** Showcase my structured learning path and progress to the community.
-*   **Create a Reference:** Develop a comprehensive resource I can refer back to.
-*   **Prepare for Production:** Bridge the gap between academic concepts and real-world ML application.
+*   **Learn by Doing:** Translate theoretical knowledge into practical code
+*   **Build Publicly:** Showcase my structured learning path and progress to the community
+*   **Create a Reference:** Develop a comprehensive resource I can refer back to
+*   **Prepare for Production:** Bridge the gap between academic concepts and real-world ML application
 
 ---
 
