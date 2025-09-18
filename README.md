@@ -54,6 +54,42 @@ The code and analysis for this module can be found in the [`/02-descriptive-stat
 *   **Development:** Jupyter Lab, VS Code, Git
 *   **Deployment & MLOps:** Docker, AWS S3, Streamlit/FastAPI (Planned)
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Python 3.8+ installed on your system.
+
+### Installation
+
+1.  **Clone this repository:**
+    ```bash
+    git clone https://github.com/BeziKaviani/data-science-ml-learning-path.git
+    cd data-science-ml-learning-path
+    ```
+
+2.  **Install required dependencies:**
+    It's recommended to use a virtual environment. You can install all required packages using the `requirements.txt` file provided in this repository:
+
+    ```bash
+    # Create a virtual environment (optional but recommended)
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+    # Install dependencies
+    pip install -r requirements.txt
+    ```
+
+3.  **Launch Jupyter Notebook/Lab:**
+    ```bash
+    jupyter notebook
+    # or
+    jupyter lab
+    ```
+
+4.  **Navigate through the chapters:**
+    Start with the chapter folders and open the Jupyter notebooks to follow along with the code examples and exercises.
+
 ## 🌱 Purpose
 
 This repository is built to:
