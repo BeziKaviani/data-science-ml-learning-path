@@ -2,10 +2,13 @@
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blueviolet)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-1.2+-F7931E?logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-4C72B0?style=flat&logo=seaborn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 A comprehensive, structured, and practical journey through the core and advanced concepts of Machine Learning and Data Science. This repository serves as my personal knowledge base, documenting my progress, code, and projects from foundational data manipulation to deploying production-ready ML systems.
 
 ## 🗺️ Learning Roadmap & Progress
