@@ -48,7 +48,6 @@ I am currently working through the third module, diving deep into:
 
 The code and analysis for this module can be found in the [`/03-inferential-statistics`](./03-inferential-statistics) directory.
 
-## 📂 Repository Structure
 
 
 
