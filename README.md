@@ -9,6 +9,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-4C72B0?style=flat&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+
 A comprehensive, structured, and practical journey through the core and advanced concepts of Machine Learning and Data Science. This repository serves as my personal knowledge base, documenting my progress, code, and projects from foundational data manipulation to deploying production-ready ML systems.
 
 ## 🗺️ Learning Roadmap & Progress
@@ -18,8 +19,8 @@ The journey is structured into the following modules, to be completed sequential
 | Module | Topics Covered | Status |
 |:-------|:---------------|:-------|
 | **01** | **Foundational Data Manipulation:** Mastery of NumPy & Pandas for efficient data handling. | ✅ **Completed** |
-| **02** | **Descriptive Statistics:** Understanding data distributions, central tendency, and variability. | ✅ **In Progress** |
-| **03** | **Inferential Statistics & Hypothesis Testing:** Drawing conclusions from data and validating assumptions. | ⌛ Planned |
+| **02** | **Descriptive Statistics:** Understanding data distributions, central tendency, and variability. | ✅ **Completed** |
+| **03** | **Inferential Statistics & Hypothesis Testing:** Drawing conclusions from data and validating assumptions. | ✅ **In Progress** |
 | **04** | **Data Visualization & Storytelling:** Creating insightful plots and dashboards with Matplotlib, Seaborn, and Plotly. | ⌛ Planned |
 | **05** | **Data Preprocessing & Wrangling:** Cleaning, normalization, encoding, and feature scaling for ML readiness. | ⌛ Planned |
 | **06** | **Basic Classification & Regression Algorithms:** Hands-on with Linear Models, K-NN, Decision Trees, and SVM. | ⌛ Planned |
@@ -33,16 +34,22 @@ The journey is structured into the following modules, to be completed sequential
 | **14** | **MLOps Foundations:** Version control (Git), containerization (Docker), and cloud storage (S3) for ML. | ⌛ Planned |
 | **15** | **Data & Workflow Management:** Orchestrating end-to-end ML pipelines and managing data workflows. | ⌛ Planned |
 
-## 🚀 Current Focus: Module 02 - Descriptive Statistics
+## 🚀 Current Focus: Module 03 - Inferential Statistics & Hypothesis Testing
 
-I am currently working through the second module, deepening my understanding of:
--   **Measures of Central Tendency:** Mean, median, mode, and their applications
--   **Measures of Variability:** Range, variance, standard deviation, and IQR
--   **Data Distributions:** Normal distribution, skewness, kurtosis, and probability density functions
--   **Correlation Analysis:** Pearson, Spearman, and Kendall correlation coefficients
--   **Practical Implementation:** Applying statistical concepts using Python and real-world datasets
+I am currently working through the third module, diving deep into:
 
-The code and analysis for this module can be found in the [`/02-descriptive-statistics`](./02-descriptive-statistics) directory.
+-   **Probability Distributions:** Normal, Binomial, Poisson distributions and their applications
+-   **Central Limit Theorem:** Understanding sampling distributions and their importance
+-   **Confidence Intervals:** Calculating and interpreting confidence intervals for means and proportions
+-   **Hypothesis Testing:** Formulating null and alternative hypotheses, p-values, significance levels
+-   **Statistical Tests:** T-tests, Chi-square tests, ANOVA, and their practical implementations
+-   **Type I & Type II Errors:** Understanding error types and statistical power
+-   **Practical Implementation:** Applying statistical inference using Python's SciPy and Statsmodels libraries
+
+The code and analysis for this module can be found in the [`/03-inferential-statistics`](./03-inferential-statistics) directory.
+
+## 📂 Repository Structure
+
 
 
 ## 🛠️ Tech Stack
