@@ -34,19 +34,19 @@ The journey is structured into the following modules, to be completed sequential
 | **14** | **MLOps Foundations:** Version control (Git), containerization (Docker), and cloud storage (S3) for ML. | ⌛ Planned |
 | **15** | **Data & Workflow Management:** Orchestrating end-to-end ML pipelines and managing data workflows. | ⌛ Planned |
 
-## 🚀 Current Focus: Module 03 - Inferential Statistics & Hypothesis Testing
+## 🚀 Current Focus: Module 04 - Data Visualization & Storytelling
 
-I am currently working through the third module, diving deep into:
+I am currently working through the fourth module, mastering the art of data storytelling through visualization:
 
--   **Probability Distributions:** Normal, Binomial, Poisson distributions and their applications
--   **Central Limit Theorem:** Understanding sampling distributions and their importance
--   **Confidence Intervals:** Calculating and interpreting confidence intervals for means and proportions
--   **Hypothesis Testing:** Formulating null and alternative hypotheses, p-values, significance levels
--   **Statistical Tests:** T-tests, Chi-square tests, ANOVA, and their practical implementations
--   **Type I & Type II Errors:** Understanding error types and statistical power
--   **Practical Implementation:** Applying statistical inference using Python's SciPy and Statsmodels libraries
+-   **Matplotlib Fundamentals:** Customizing plots, subplots, and annotations
+-   **Seaborn for Statistical Visualization:** Distribution plots, categorical plots, and relational plots
+-   **Advanced Plotting:** Heatmaps, pairplots, and joint distributions
+-   **Interactive Visualizations with Plotly:** Creating dashboards and interactive charts
+-   **Visualization Best Practices:** Color theory, chart selection, and accessibility
+-   **Data Storytelling:** Creating narratives that communicate insights effectively
+-   **Practical Projects:** Building comprehensive dashboards for real-world datasets
 
-The code and analysis for this module can be found in the [`/03-inferential-statistics`](./03-inferential-statistics) directory.
+The code and visualizations for this module can be found in the [`/04-data-visualization`](./04-data-visualization) directory.
 
 
 
