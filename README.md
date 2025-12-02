@@ -20,8 +20,8 @@ The journey is structured into the following modules, to be completed sequential
 |:-------|:---------------|:-------|
 | **01** | **Foundational Data Manipulation:** Mastery of NumPy & Pandas for efficient data handling. | ✅ **Completed** |
 | **02** | **Descriptive Statistics:** Understanding data distributions, central tendency, and variability. | ✅ **Completed** |
-| **03** | **Inferential Statistics & Hypothesis Testing:** Drawing conclusions from data and validating assumptions. | ✅ **In Progress** |
-| **04** | **Data Visualization & Storytelling:** Creating insightful plots and dashboards with Matplotlib, Seaborn, and Plotly. | ⌛ Planned |
+| **03** | **Inferential Statistics & Hypothesis Testing:** Drawing conclusions from data and validating assumptions. | ✅ **Completed**|
+| **04** | **Data Visualization & Storytelling:** Creating insightful plots and dashboards with Matplotlib, Seaborn, and Plotly. | 📈 **In progress** |
 | **05** | **Data Preprocessing & Wrangling:** Cleaning, normalization, encoding, and feature scaling for ML readiness. | ⌛ Planned |
 | **06** | **Basic Classification & Regression Algorithms:** Hands-on with Linear Models, K-NN, Decision Trees, and SVM. | ⌛ Planned |
 | **07** | **Advanced Supervised Learning:** Ensemble methods (Random Forest, GBM, XGBoost), Hyperparameter tuning, and model evaluation. | ⌛ Planned |
